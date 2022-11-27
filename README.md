@@ -211,8 +211,9 @@
 | JDBC 라이브러리 구현하기 | <a href="https://github.com/tco0427/jwp-dashboard-jdbc/tree/step1">jwp-dashboard-jdbc/step1</a>   | <a href="https://github.com/woowacourse/jwp-dashboard-jdbc/pull/66">jdbc/step1</a>         |                                                                                                                                                                                                                                                        |
 |              | <a href="https://github.com/tco0427/jwp-dashboard-jdbc/tree/step2">jwp-dashboard-jdbc/step2</a>   | <a href="https://github.com/woowacourse/jwp-dashboard-jdbc/pull/138">jdbc/step2</a>        |  |
 |              | <a href="https://github.com/tco0427/jwp-dashboard-jdbc/tree/step3">jwp-dashboard-jdbc/step3</a>   | <a href="https://github.com/woowacourse/jwp-dashboard-jdbc/pull/188">jdbc/step3</a>        |  |
-| 레거시 코드 리팩터링  | <a href="https://github.com/tco0427/jwp-refactoring/tree/step1">jwp-refactoring/step1</a>         | <a href="https://github.com/woowacourse/jwp-refactoring/pull/210">refactoring/step1</a>    |                                                                                                                                                                                                                                                        |
-|              |                                                                                                   |  |                                   |
+| 레거시 코드 리팩터링  | <a href="https://github.com/tco0427/jwp-refactoring/tree/step1">jwp-refactoring/step1</a>         | <a href="https://github.com/woowacourse/jwp-refactoring/pull/210">refactoring/step1</a>    |  |
+|  | <a href="https://github.com/tco0427/jwp-refactoring/tree/step2">jwp-refactoring/step2</a>         | <a href="https://github.com/woowacourse/jwp-refactoring/pull/333">refactoring/step2</a>    | |
+|  | <a href="https://github.com/tco0427/jwp-refactoring/tree/step3">jwp-refactoring/step3</a>         | <a href="https://github.com/woowacourse/jwp-refactoring/pull/364">refactoring/step3</a>    | |
 | 실습           | <a href="https://github.com/tco0427/jwp-hands-on">jwp-hands-on</a>                  |  |                                   |
 
 ### 📚 블로그
